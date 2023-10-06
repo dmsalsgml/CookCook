@@ -17,7 +17,9 @@ openAI를 활용한 식단 추천, 식단표 목록으로부터 재료 추출, �
 * @Uoioio (조유진)
 
 ### Stacks
-.
+- Front-End: JavaScript, React.js, HTML/CSS
+- Back-End: spring, AWS (EC2, RDS, S3 등), MyBatis
+- Database: Oracle
 
 
 
